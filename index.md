@@ -2,7 +2,7 @@
 
 You can use the [editor on GitHub](https://github.com/coinmarketcaps/coinmarketdo/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://www.google.com/url?rct=j&sa=t&url=https://coinmarketbag.com/&cd=CAAYADIaNDgxYTk3OWFmMTg3NDA3ZDpjb206ZW46VVM&ct=ga&usg=AOvVaw3eauHLmSc6WrQFG2SAdNnO) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
